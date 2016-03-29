@@ -1,6 +1,6 @@
 {
   "name": "is-twenty-two",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "npm package for seeing if something is 22 or not",
   "main": "index.js",
   "scripts": {
