@@ -1,7 +1,7 @@
 {
   "name": "is-twenty-two",
-  "version": "1.0.1",
-  "description": "",
+  "version": "1.0.2",
+  "description": "npm package for seeing if something is 22 or not",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
